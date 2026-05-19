@@ -1,0 +1,6 @@
+NextID=9
+1|The Alchemist|Paulo Coelho|Fiction|1988|true
+2|Atomic Habits|James Clear|Self-Help|2018|true
+3|The Art of War|Sun Tzu|Philosophy|1910|true
+4|Sapiens|Yuval Noah Harari|History|2011|true
+5|Rich Dad Poor Dad|Robert Kiyosaki|Finance|1998|true
